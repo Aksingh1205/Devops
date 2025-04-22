@@ -1,2 +1,2 @@
 # Devops
-Starting Devops course 
+Starting Devops course today
